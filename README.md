@@ -13,7 +13,7 @@ The React Event Handling Workshop project includes multiple components that show
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/jeka400/React-event-handling-workshop.git
+    git clone https://github.com/jeka400/react-event-handling-workshop.git
     ```
 
 2. **Navigate to the project directory:**
